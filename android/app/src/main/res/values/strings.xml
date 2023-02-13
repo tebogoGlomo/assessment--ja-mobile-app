@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">assessment</string>
+    <string name="title_activity_main">assessment</string>
+    <string name="package_name">com.assesment.angular</string>
+    <string name="custom_url_scheme">com.assesment.angular</string>
+</resources>
